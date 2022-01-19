@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShawnsFantasyWorld
+- 👋 Hi, I’m @ShawnsFantasticWorld
 - 👀 To share and record my coding life......
 - 🌱 WashU, 2023 / BJUT, 2021
 - 💞️ Computer Science
