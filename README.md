@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShawnsFantasticWorld
 - 👀 To share and record my coding life......
-- 🌱 WashU, 2023 / BJUT, 2021
+- 🌱 SDE @ Barclays/ WashU 2023 / BJUT 2021
 - 💞️ Computer Science
 - 📫 jiajun.sun01@gmail.com
 
